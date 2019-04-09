@@ -23,6 +23,9 @@
 - [上海交通大学课程分享](https://github.com/CoolPhilChen/SJTU-Courses/)
 
 
+### 机器学习
+- [Awesome Data Science with Python](https://github.com/r0f1/datascience)
+
 ### 前端
 - [前端面试手册](https://github.com/yangshun/front-end-interview-handbook/blob/master/Translations/Chinese/README.md)
 
