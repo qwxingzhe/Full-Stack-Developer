@@ -8,7 +8,7 @@
 
 
 ### 架构
-- [架构师之路](https://www.w3cschool.cn/u/56375)
+- [架构师之路](https://www.w3cschool.cn/architectroad/)
 - [互联网公司经典技术架构](https://github.com/davideuler/architecture.of.internet-product)
 - [《后端架构师技术图谱》](https://github.com/xingshaocheng/architect-awesome)
 - [轻量级微服务架构及最佳部署](/微服务/轻量级微服务架构及最佳部署.md)
