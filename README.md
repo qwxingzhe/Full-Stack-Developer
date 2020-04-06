@@ -1,3 +1,5 @@
+# 全栈架构师技能图谱
+
 ### 综合资料
 - [全栈开发指南](https://github.com/frank-lam/fullstack-tutorial)
 - [程序员的技术视野](https://github.com/wx-chevalier/Developer-Zero-To-Mastery)
@@ -51,3 +53,24 @@
 - [程序员简历模板](https://github.com/geekcompany/ResumeSample)
 - [中国程序员容易发音错误的单词](https://github.com/shimohq/chinese-programmer-wrong-pronunciation)
 
+
+## 工具篇
+### 项目/缺陷/任务管理
+- Jira
+- Redmine
+- ONES
+- 禅道
+- worktile
+
+### API 管理
+- Yapi
+- RAP
+
+### 文档管理
+- [Confluence - 收费文档管理系统]()
+
+
+### 代码管理
+- gitlab
+- github
+- gitee
